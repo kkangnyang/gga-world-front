@@ -1,5 +1,7 @@
 # gga-world-front
 
+## 지뢰찾기 만들예정..
+
 ## Project setup
 ```
 yarn install
